@@ -4,7 +4,7 @@ import "./Jumbotron.css"
 
 const Jumbotron = () => (
   <div className="jumbotron">
-    <h1>Memory Game</h1>
+    <h1>Disney clicky Game</h1>
     <p>
         Click on any image to earn points, but dont click on any more than once!
     </p>
